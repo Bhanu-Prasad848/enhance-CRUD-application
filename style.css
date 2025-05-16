@@ -1,0 +1,9 @@
+body {
+    font-family: 'Segoe UI', sans-serif;
+}
+.card-title {
+    color: #333;
+}
+.card-text {
+    color: #555;
+}
